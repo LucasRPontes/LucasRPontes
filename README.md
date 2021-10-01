@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="GIF" src=https://media0.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif width="400px" /> -->
 
 - :brazil: Sou natural do Uberlândia
-- 👩🏽‍🎓 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
+- 👨🏽‍💻 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
 - 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**;
 - 🧠 Iniciando os estudos em **Java**;
 - 🔎 Busca constante por conhecimento;
