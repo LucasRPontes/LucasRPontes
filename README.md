@@ -8,6 +8,8 @@
 - 🧠 Iniciando os estudos em **Java**;
 - 🔎 Busca constante por conhecimento;
 
+
+
 ### Entre em contato
 <a href="https://www.linkedin.com/in/lucas-rodrigues-pontes/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -16,6 +18,8 @@
 <a href = "mailto:lucasrpontesgarcia@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a> 
+
+
 
 ### Linguagens e Ferramentas
 <p align="left">
@@ -29,5 +33,13 @@
   <img alt="nodeJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="mongoDb" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </p>
+
+
+
+#### Link para o CodeWars
+<a href = "https://www.codewars.com/users/Lucas%20Pontes">
+  <img src="https://www.codewars.com/users/Lucas%20Pontes/badges/micro" target="_blank">
+</a> 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRPontes&theme=github_dark&show_icons=true)
