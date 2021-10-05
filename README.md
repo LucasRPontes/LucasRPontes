@@ -3,9 +3,10 @@
 <!-- <img align="right" alt="GIF" src=https://media0.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif width="400px" /> -->
 
 - :brazil: Sou natural do Uberlândia, Minas Gerais.
-- 👨🏽‍💻 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
-- 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**;
-- 🔎 Busca constante por conhecimento;
+- 🔎 Sou fascinado por tudo que envolve tecnologia, inovações e códigos!
+- 👨🏽‍💻 Procuro sempre estar aprendendo alguma tecnologia nova, que possa agregar na minha carreira
+- 🚀 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
+- 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**
 
 
 
