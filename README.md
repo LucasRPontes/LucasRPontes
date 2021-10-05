@@ -1,4 +1,4 @@
-### Oi, sou Lucas, Estudante de Progamação.
+### Olá, sou Lucas, Estudante de Progamação.
 
 <!-- <img align="right" alt="GIF" src=https://media0.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif width="400px" /> -->
 
