@@ -6,7 +6,7 @@
 - 🔎 Sou fascinado por tudo que envolve tecnologia, inovações e códigos
 - 👨🏽‍💻 Procuro sempre estar aprendendo alguma tecnologia nova, que possa agregar na minha carreira
 - 🚀 Estudante da <a href="https://www.betrybe.com/" target="_blank"><strong>Trybe</strong></a> 🚀
-- 📚 Aprendendo desenvovlimento back-end com **NodeJS** e **MongoDB**
+- 📚 Aprendendo desenvolvimento back-end com **NodeJS**, **Express** , **MySQL** e **MongoDB**
 
 
 
